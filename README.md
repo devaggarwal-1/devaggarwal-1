@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamllZHRjeTBxeDlobWk4aG9pMGRqbHRydHM5eW05cjhkYTRubGo3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dev-aggarwal-a1b284190/">
+  <a href="https://www.linkedin.com/in/dev-aggarwal-a1b284190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/lazybum191">
